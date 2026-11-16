@@ -1,0 +1,23 @@
+.a {
+    text-align: left;
+    color: blueviolet;
+}
+.b {
+    text-align: right;
+    color: aquamarine;
+}
+.c {
+    text-align: center;
+    color: blue;
+}
+.d {
+    text-align: justify;
+    color: cadetblue;
+}
+.e {
+    text-align: center;
+    color: brown;
+}
+body {
+    background-image: url(https://mega-print23.ru/thumb/2/LXHhcM9pz42TOLBVO66Psg/r/d/2022-sivol-goda-kartinka.png);
+}
