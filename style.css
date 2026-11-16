@@ -50,3 +50,18 @@ body {
     color: hotpink;
     border: 1px solid;
 }
+
+.bl {
+    display: block;
+    border: 1px solid red;
+}
+
+.z {
+    display: inline;
+    border: 1px solid green;
+}
+
+.n {
+    display: inline;
+    color: blue;
+}
