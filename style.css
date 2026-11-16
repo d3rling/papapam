@@ -35,3 +35,18 @@ body {
     border: 5px solid aquamarine;
     margin: 30px;
 }
+
+.r {
+    color: darkslateblue;
+    border: 1px solid;
+}
+
+.t {
+    color: darkred;
+    border: 1px solid;
+}
+
+.j {
+    color: hotpink;
+    border: 1px solid;
+}
