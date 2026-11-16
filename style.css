@@ -21,3 +21,17 @@
 body {
     background-image: url(https://mega-print23.ru/thumb/2/LXHhcM9pz42TOLBVO66Psg/r/d/2022-sivol-goda-kartinka.png);
 }
+#p {
+    border: 2px solid red;
+}
+
+#ch {
+    border: 3px dashed purple;
+    margin: 50px;
+    background-color: cadetblue;
+}
+
+#v {
+    border: 5px solid aquamarine;
+    margin: 30px;
+}
